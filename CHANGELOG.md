@@ -1,5 +1,13 @@
 # @apollo/client
 
+## 3.9.5
+
+### Patch Changes
+
+- [#11595](https://github.com/apollographql/apollo-client/pull/11595) [`8c20955`](https://github.com/apollographql/apollo-client/commit/8c20955874562e5b2ab35557325e047b059bc4fc) Thanks [@phryneas](https://github.com/phryneas)! - Bumps the dependency `rehackt` to 0.0.5
+
+- [#11562](https://github.com/apollographql/apollo-client/pull/11562) [`65ab695`](https://github.com/apollographql/apollo-client/commit/65ab695470741e8dcaef1ebd7742c3c397526354) Thanks [@mspiess](https://github.com/mspiess)! - Mocks with an infinite delay no longer require result or error
+
 ## 3.9.4
 
 ### Patch Changes
